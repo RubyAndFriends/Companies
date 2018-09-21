@@ -7,6 +7,7 @@ Companies in and around Barcelona that employ Ruby developers
 | Badi         |           | @badi      |                            |                            |
 | Codegram     |           |            |                            | Terassa                    |
 | Devex        |           |            |                            |                            |
+| Eelp!        |           |            |                            |                            |
 | Esaving      |           |            |                            |                            |
 | Factorial HR |           |            |                            |                            |
 | Interficie   |           |            | https://www.interficie.com |                            |
@@ -15,6 +16,9 @@ Companies in and around Barcelona that employ Ruby developers
 | Redbooth     |           |            |                            |                            |
 | Sequra       |           | @SequraEng |                            |                            |
 | Technotramit |           |            |                            |                            |
+| Thoughtworks |           |            |                            |                            |
+| Wakoopa      |           |            |                            |                            |
+| Netquest     |           |            |                            |                            |
 | WuakiTV      |           |            |                            |                            |
 | Xing         | 25 (?)    | @Xing_bcn  | https://xing.com           | Carrer Consell de Cent 334 |
 
