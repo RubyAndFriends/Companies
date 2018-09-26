@@ -2,25 +2,31 @@
 
 Companies in and around Barcelona that employ Ruby developers
 
-| Name         | Ruby Devs | Twitter    | Website                    | Address                    |
-|:-------------|:----------|:-----------|:---------------------------|:---------------------------|
-| Badi         |           | @badi      |                            |                            |
-| Codegram     |           |            |                            | Terassa                    |
-| Devex        |           |            |                            |                            |
-| Eelp!        |           |            |                            |                            |
-| Esaving      |           |            |                            |                            |
-| Factorial HR |           |            |                            |                            |
-| Interficie   |           |            | https://www.interficie.com |                            |
-| MarsBased    |           |            |                            |                            |
-| New Relic    |           |            |                            |                            |
-| Redbooth     |           |            |                            |                            |
-| Sequra       |           | @SequraEng |                            |                            |
-| Technotramit |           |            |                            |                            |
-| Thoughtworks |           |            |                            |                            |
-| Wakoopa      |           |            |                            |                            |
-| Netquest     |           |            |                            |                            |
-| WuakiTV      |           |            |                            |                            |
-| Xing         | 25 (?)    | @Xing_bcn  | https://xing.com           | Carrer Consell de Cent 334 |
+| Name           | Ruby Devs | Twitter    | Website                    | Address                    |
+|:---------------|:----------|:-----------|:---------------------------|:---------------------------|
+| Badi           |           | @badi      |                            |                            |
+| Camaloon       |           |            |                            |                            |
+| Codegram       |           | @codegram  | https://codegram.com       | Terassa                    |
+| Devex          |           |            |                            |                            |
+| Digital Origin |           |            |                            |                            |
+| Eelp!          |           |            |                            |                            |
+| Esaving        |           |            |                            |                            |
+| Factorial HR   |           |            |                            |                            |
+| Interficie     |           |            | https://www.interficie.com |                            |
+| Kantox         |           |            |                            |                            |
+| Kasaz          |           |            |                            |                            |
+| MarsBased      |           |            |                            |                            |
+| New Relic      |           |            |                            |                            |
+| Redbooth       |           |            |                            |                            |
+| Sequra         | ~12       | @SequraEng | https://www.sequra.es      | C/ Aragón, 383             |
+| Stuart         |           |            |                            |                            |
+| Technotramit   |           |            |                            |                            |
+| Thoughtworks   |           |            |                            |                            |
+| Wakoopa        |           |            |                            |                            |
+| Netquest       |           |            |                            |                            |
+| WuakiTV        |           |            |                            |                            |
+| Xing           | 25 (?)    | @Xing_bcn  | https://xing.com           | Carrer Consell de Cent 334 |
+| Ztory          |           |            | https://www.ztory.com/es   |                            |
 
 ## Remote companies
 
