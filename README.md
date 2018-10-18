@@ -4,7 +4,7 @@ Companies in and around Barcelona that employ Ruby developers
 
 | Name           | Ruby Devs | Twitter    | Website                    | Address                    |
 |:---------------|:----------|:-----------|:---------------------------|:---------------------------|
-| Badi           |           | @badi      |                            |                            |
+| Badi           |           | @badi      | https://badi.com           | Av. Meridiana 89           |
 | Camaloon       |           |            |                            |                            |
 | Codegram       |           | @codegram  | https://codegram.com       | Terassa                    |
 | Devex          |           |            |                            |                            |
