@@ -6,7 +6,7 @@ Companies in and around Barcelona that employ Ruby developers
 |:---------------|:----------|:-----------|:---------------------------|:---------------------------|
 | Badi           |           | @badi      |                            |                            |
 | Camaloon       |           |            |                            |                            |
-| Codegram       |           | @codegram  | https://codegram.com       | Terassa                    |
+| Codegram       |           | @codegram  | https://codegram.com       | Terrassa                   |
 | Devex          |           |            |                            |                            |
 | Digital Origin |           |            |                            |                            |
 | Eelp!          |           |            |                            |                            |
