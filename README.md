@@ -12,6 +12,7 @@ Companies in and around Barcelona that employ Ruby developers
 | Eelp!          |           |            |                            |                            |
 | Esaving        |           |            |                            |                            |
 | Factorial HR   |           |            |                            |                            |
+| Fab Lab BCN    | 1         | @fablabbcn | https://fablabbcn.org/     | Carrer de Pujades 102      |
 | FCM travel sol.| 6         |            | https://fcm.travel         | Rambla de Catalunya 6      |
 | Interficie     |           |            | https://www.interficie.com |                            |
 | Kantox         |           |            |                            |                            |
