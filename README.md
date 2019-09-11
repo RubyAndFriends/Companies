@@ -36,6 +36,7 @@ Companies that don't have an office in Barcelona, but developers that live here 
 
 | Name         | Dev Contact  | Twitter       | Website                | City, Country of HQ |
 |:-------------|:-------------|:--------------|:-----------------------|:--------------------|
+| BeBanjo      | @uesteibar   | @bebanjo      | https://bebanjo.com    | Madrid, Spain       |
 | Buffer       |              |               |                        | New York, USA       |
 | CARTO        |              |               |                        | Madrid, Spain       |
 | Cabify       |              | @cabify       |                        | Madrid, Spain       |
